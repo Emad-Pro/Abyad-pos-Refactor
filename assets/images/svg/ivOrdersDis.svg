@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="iv_Orders" transform="translate(-231 -2733)">
+    <rect id="Rectangle_13140" data-name="Rectangle 13140" width="56" height="56" transform="translate(231 2733)" fill="none"/>
+    <path id="Path_209795" data-name="Path 209795" d="M8.25,10.25H28.083" transform="translate(240.833 2746.667)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5"/>
+    <path id="Path_209796" data-name="Path 209796" d="M8.25,13.76H28.083" transform="translate(240.833 2751.347)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5"/>
+    <path id="Path_209797" data-name="Path 209797" d="M8.25,17.25h10.5" transform="translate(240.833 2756)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5"/>
+    <path id="Path_495036" data-name="Path 495036" d="M36.75,3.75H7.583A2.333,2.333,0,0,0,5.25,6.083V42.25a2.333,2.333,0,0,0,2.333,2.333H36.75a2.333,2.333,0,0,0,2.333-2.333V6.083A2.333,2.333,0,0,0,36.75,3.75Z" transform="translate(236.833 2738)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    <path id="Path_209794" data-name="Path 209794" d="M24.417,2.75H9.25v8.167H24.417Z" transform="translate(242.167 2736.667)" fill="#fff" stroke="#638c9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+  </g>
+</svg>

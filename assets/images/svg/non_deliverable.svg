@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="vuesax_linear_truck-remove" data-name="vuesax/linear/truck-remove" transform="translate(-236 -252)">
+    <g id="truck-remove" transform="translate(236 252)">
+      <path id="Vector" d="M19.655,0V15.119a3.033,3.033,0,0,1-3.024,3.024H0V8.5a5.9,5.9,0,0,0,4.672,2.086A5.811,5.811,0,0,0,8.6,8.981,5.12,5.12,0,0,0,9.767,7.544,5.888,5.888,0,0,0,10.583,4.4,6.022,6.022,0,0,0,8.527,0Z" transform="translate(5.637 5.638)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M30.238,13.607v4.536A4.53,4.53,0,0,1,25.7,22.678H24.19a3.024,3.024,0,0,0-6.048,0H12.1a3.024,3.024,0,0,0-6.048,0H4.536A4.53,4.53,0,0,1,0,18.143V13.607H16.631a3.033,3.033,0,0,0,3.024-3.024V0h2.782a3.049,3.049,0,0,1,2.631,1.527l2.585,4.52H25.7A1.516,1.516,0,0,0,24.19,7.559V12.1A1.516,1.516,0,0,0,25.7,13.607Z" transform="translate(5.637 10.174)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M6.048,3.024A3.024,3.024,0,1,1,3.024,0,3.024,3.024,0,0,1,6.048,3.024Z" transform="translate(11.685 29.827)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M6.048,3.024A3.024,3.024,0,1,1,3.024,0,3.024,3.024,0,0,1,6.048,3.024Z" transform="translate(23.78 29.827)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-5" data-name="Vector" d="M6.048,4.536V7.559H1.512A1.516,1.516,0,0,1,0,6.048V1.512A1.516,1.516,0,0,1,1.512,0h1.95Z" transform="translate(29.827 16.221)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Group" transform="translate(4.125 4.125)">
+        <path id="Vector-6" data-name="Vector" d="M12.1,6.048a5.928,5.928,0,0,1-.877,3.114,5.432,5.432,0,0,1-1.194,1.421A5.9,5.9,0,0,1,6.048,12.1,6,6,0,0,1,.877,9.162,5.928,5.928,0,0,1,0,6.048a6.048,6.048,0,0,1,12.1,0Z" transform="translate(0 0.001)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g id="Group-2" data-name="Group" transform="translate(4.43 4.43)">
+          <path id="Vector-7" data-name="Vector" d="M3.19,3.19,0,0" transform="translate(0.045)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Vector-8" data-name="Vector" d="M3.19,0,0,3.19" transform="translate(0 0.045)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <path id="Vector-9" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

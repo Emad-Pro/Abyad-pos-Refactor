@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372662509172",
+    "project_id": "abyad-pos",
+    "storage_bucket": "abyad-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372662509172:android:b6d1eea77f815405efbb21",
+        "android_client_info": {
+          "package_name": "sa.abyad.laundry.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDU8aMCJRIBYJ66ORrVkNYZj6Sa3Xe5FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="vuesax_linear_undo" data-name="vuesax/linear/undo" transform="translate(-108 -316)">
+    <g id="undo" transform="translate(108 316)">
+      <path id="Vector" d="M4.5,15h12a7.5,7.5,0,0,0,0-15H0" transform="translate(6.195 12.465)" fill="none" stroke="#004359" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-2" data-name="Vector" d="M3.84,7.68,0,3.84,3.84,0" transform="translate(5.805 8.535)" fill="none" stroke="#004359" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H36V36H0Z" transform="translate(36 36) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

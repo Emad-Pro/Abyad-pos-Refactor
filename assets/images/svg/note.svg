@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="vuesax_linear_note" data-name="vuesax/linear/note" transform="translate(-428 -252)">
+    <g id="note" transform="translate(428 252)">
+      <path id="Vector" d="M40,10V34.375c0,7.5-4.475,10-10,10H10c-5.525,0-10-2.5-10-10V10C0,1.875,4.475,0,10,0a5.592,5.592,0,0,0,1.65,3.975,5.593,5.593,0,0,0,3.975,1.65h8.75A5.633,5.633,0,0,0,30,0C35.525,0,40,1.875,40,10Z" transform="translate(10 10.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-2" data-name="Vector" d="M20,5.625a5.633,5.633,0,0,1-5.625,5.625H5.625A5.625,5.625,0,0,1,5.625,0h8.75A5.633,5.633,0,0,1,20,5.625Z" transform="translate(20 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H15.4" transform="translate(22.3 41.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H22.968" transform="translate(18.516 47.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H60V60H0Z" fill="none" opacity="0"/>
+      <path id="Path_209810" data-name="Path 209810" d="M28.671,40.407H21.386a1.475,1.475,0,0,1-1.474-1.474V33.774l-.824.825a1.222,1.222,0,0,1-1.728,0l-1.584-1.583a1.221,1.221,0,0,1,0-1.728l2.992-2.993a7.378,7.378,0,0,1,3.289-1.9.95.95,0,0,1,1.1.518,1.965,1.965,0,0,0,3.73,0,.942.942,0,0,1,1.1-.518,7.389,7.389,0,0,1,3.29,1.9l2.991,2.992a1.221,1.221,0,0,1,0,1.729L32.7,34.6a1.223,1.223,0,0,1-1.727,0l-.825-.825v5.158a1.475,1.475,0,0,1-1.474,1.474Zm-8.243-8.391a.515.515,0,0,1,.515.515v6.4a.444.444,0,0,0,.444.444h7.285a.444.444,0,0,0,.444-.444v-6.4a.515.515,0,0,1,.879-.364l1.7,1.7a.193.193,0,0,0,.272,0l1.583-1.583a.192.192,0,0,0,.056-.137.188.188,0,0,0-.055-.134h0l-2.992-2.993A6.344,6.344,0,0,0,27.8,27.405a3.021,3.021,0,0,1-2.77,1.881,3.058,3.058,0,0,1-2.77-1.882A6.346,6.346,0,0,0,19.5,29.023L16.5,32.016a.216.216,0,0,0,0,.272l1.583,1.583a.194.194,0,0,0,.272,0l1.7-1.7a.515.515,0,0,1,.364-.151Z" transform="translate(5.363 -3.796)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

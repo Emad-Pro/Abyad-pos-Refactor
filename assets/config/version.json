@@ -1,0 +1,15 @@
+{
+  "min_supported_version": 35,
+  "latest": 41,
+  "force": true,
+  "url": "r&dl=1",
+  "sha256": "74d3...c1a9",
+  "rollout": {
+    "start": "13:00",
+    "end": "15:00",
+    "branches": {
+      "riyadh-001": { "latest": 41 },
+      "jeddah-003": { "latest": 42 }
+    }
+  }
+}

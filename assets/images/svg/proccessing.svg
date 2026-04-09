@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="vuesax_linear_3d-rotate" data-name="vuesax/linear/3d-rotate" transform="translate(-364 -252)">
+    <g id="_3d-rotate" data-name="3d-rotate" transform="translate(364 252)">
+      <g id="Group" transform="translate(10.4 9.994)">
+        <g id="Group-2" data-name="Group" transform="translate(0.767 5.44)">
+          <path id="Vector" d="M0,0,8.833,5.117,17.6.033" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Vector-2" data-name="Vector" d="M0,9.083V0" transform="translate(8.833 5.1)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <path id="Vector-3" data-name="Vector" d="M7.533.49,2.2,3.456A4.74,4.74,0,0,0,0,7.19v5.65a4.7,4.7,0,0,0,2.2,3.733L7.533,19.54a4.77,4.77,0,0,0,4.15,0l5.333-2.967a4.74,4.74,0,0,0,2.2-3.733V7.173a4.7,4.7,0,0,0-2.2-3.733L11.683.473A4.714,4.714,0,0,0,7.533.49Z" transform="translate(0 0)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(3.333 3.333)">
+        <path id="Vector-4" data-name="Vector" d="M11.667,0A11.658,11.658,0,0,1,0,11.667L1.75,8.75" transform="translate(21.667 21.667)" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-5" data-name="Vector" d="M0,11.667A11.658,11.658,0,0,1,11.667,0L9.917,2.917" fill="none" stroke="#00bffe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <path id="Vector-6" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

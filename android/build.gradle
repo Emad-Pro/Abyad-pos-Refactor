@@ -1,0 +1,73 @@
+// 1. MUST BE AT THE TOP: This tells Gradle where to find the tools to build the app
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://developer.huawei.com/repo/' }
+    }
+    dependencies {
+        // Correct place for the Android Gradle Plugin
+        classpath 'com.android.tools.build:gradle:8.1.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.22" // Ensure this matches your Kotlin version
+    }
+}
+
+
+allprojects {
+    repositories {
+
+        google()
+        mavenCentral()
+        def props = new Properties()
+        File localPropertiesFile = new File(rootDir, 'local.properties')
+        if (localPropertiesFile.exists()) {
+            props.load(new FileInputStream(localPropertiesFile))
+        }
+        maven {
+            url = "https://gitlab.com/api/v4/projects/37026421/packages/maven"
+            credentials(HttpHeaderCredentials) {
+                name = 'Private-Token'
+                value = 'glpat-jOmeMMJ3R623EnRzc79VJG86MQp1OmRyOXk1Cw.01.120xj1afz' //will be supported from Nearpay Product Team
+            }
+            authentication {
+                header(HttpHeaderAuthentication)
+            }
+        }
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://developer.huawei.com/repo/' }
+
+    }
+
+//    dependencies {
+////        classpath 'com.android.tools.build:gradle:8.13.2'
+//        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:2.3.0"
+//    }
+}
+
+rootProject.buildDir = "../build"
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+            project.android {
+                // This forces all plugins (like connectivity_plus) to use API 35
+                compileSdkVersion 35
+
+                // Helps resolve the Metadata mismatch errors
+                defaultConfig {
+                    targetSdkVersion 35
+                }
+            }
+        }
+    }
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

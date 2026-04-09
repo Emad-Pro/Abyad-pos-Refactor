@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="ic_New_order" data-name="ic_New order" transform="translate(-311 -2733)">
+    <rect id="Rectangle_13141" data-name="Rectangle 13141" width="56" height="56" transform="translate(311 2733)" fill="none"/>
+    <path id="Path_209798" data-name="Path 209798" d="M17.083,13.75H6.583A2.333,2.333,0,0,0,4.25,16.083v10.5a2.333,2.333,0,0,0,2.333,2.333h10.5a2.333,2.333,0,0,0,2.333-2.333v-10.5A2.333,2.333,0,0,0,17.083,13.75Z" transform="translate(315.5 2751.333)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    <path id="Path_209799" data-name="Path 209799" d="M17.083,3.75H6.583A2.333,2.333,0,0,0,4.25,6.083v10.5a2.333,2.333,0,0,0,2.333,2.333h10.5a2.333,2.333,0,0,0,2.333-2.333V6.083A2.333,2.333,0,0,0,17.083,3.75Z" transform="translate(315.5 2738)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    <path id="Path_209800" data-name="Path 209800" d="M27.083,3.75h-10.5A2.333,2.333,0,0,0,14.25,6.083v10.5a2.333,2.333,0,0,0,2.333,2.333h10.5a2.333,2.333,0,0,0,2.333-2.333V6.083A2.333,2.333,0,0,0,27.083,3.75Z" transform="translate(328.833 2738)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+    <path id="Path_209801" data-name="Path 209801" d="M17.5,13.75V28.917" transform="translate(333.167 2751.333)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5"/>
+    <path id="Path_209802" data-name="Path 209802" d="M29.417,17H14.25" transform="translate(328.833 2755.667)" fill="none" stroke="#638c9a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.5"/>
+  </g>
+</svg>

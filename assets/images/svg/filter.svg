@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_93959" data-name="Group 93959" transform="translate(-587 -955)">
+    <rect id="Rectangle" width="100" height="100" rx="30" transform="translate(587 955)" fill="#fff"/>
+    <g id="vuesax_linear_filter" data-name="vuesax/linear/filter" transform="translate(63 479)">
+      <g id="filter" transform="translate(556 508)">
+        <path id="Vector" d="M3,0H22.8a3.009,3.009,0,0,1,3,3V6.3a5.6,5.6,0,0,1-1.5,3.45l-6.45,5.7a4.883,4.883,0,0,0-1.5,3.45v6.45A3.341,3.341,0,0,1,15,27.9l-2.1,1.35A3.057,3.057,0,0,1,8.25,26.7V18.75a5.8,5.8,0,0,0-1.2-3.15l-5.7-6A4.972,4.972,0,0,1,0,6.6V3.15A3.044,3.044,0,0,1,3,0Z" transform="translate(5.1 3.15)" fill="none" stroke="#008fbf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <path id="Vector-2" data-name="Vector" d="M7.4,0,0,11.85" transform="translate(9 3.15)" fill="none" stroke="#008fbf" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H36V36H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
